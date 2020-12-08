@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\PC\Desktop\solve\BT_LTUD\QuanLyBanHangMoHinh3Lop\DAL\obj\Debug\netstandard2.0\DAL.pdb

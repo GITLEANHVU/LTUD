@@ -879,11 +879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\BUS.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\BUS.csproj",
       "projectName": "BUS",
-      "projectPath": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\BUS.csproj",
+      "projectPath": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\BUS.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -899,8 +899,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj"
+            "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj"
             }
           }
         }

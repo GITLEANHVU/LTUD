@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj": {}
+    "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

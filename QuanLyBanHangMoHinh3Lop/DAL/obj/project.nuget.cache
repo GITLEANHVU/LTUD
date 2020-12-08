@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIt0NaFz9fo+2527kzUddj/RVGrn+3g42NM03vcTXhFw67MyQ4VwXLqRXwV1C9Zfj/lC2Had1I3YN5uwanqJ0A==",
+  "dgSpecHash": "4YxDR9MHKHNK1zyK1hVW+tnqFm7PaKyh9scVBlT4UES9OYw0FpSNVZae1XWbRjHKtyIU+3SLbXhpxOZ6Tu4uig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

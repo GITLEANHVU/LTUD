@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b40viDTefKjWSxxTuArRN07ATELNKLtUtoa9DID2GTT0P27SF8VsCevVo2i78htMOA0gA/yjXxZBezpAKtkldA==",
+  "dgSpecHash": "MULAAyI0arz706MEMiNPl/adhrpGAIwuqcMe0RuB6Mi5hNuYnAMwF1s8Vj2dF8SiftCn81g3i0Drg5rGuOlCzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\solve\\BT_LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\BUS.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\LTUD\\QuanLyBanHangMoHinh3Lop\\BUS\\BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
